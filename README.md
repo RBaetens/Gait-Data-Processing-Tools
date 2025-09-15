@@ -1,2 +1,3 @@
 # Gait-Data-Processing-Tools
 This repository contains python and Matlab scripts, used in gait data processing and analysis. They were used to construct a dataset, and this repository serves as background information to those who would like to use that dataset. It can also serve as inspiration to people who want to perform similar data processing tasks. The code is not clean and contains a lot of hard coded bits (fit to the dataset it was used on), so it is not recommended to use the code, as is, on other data.
+<a href="https://doi.org/10.5281/zenodo.17122075"><img src="https://zenodo.org/badge/1057114809.svg" alt="DOI"></a>
