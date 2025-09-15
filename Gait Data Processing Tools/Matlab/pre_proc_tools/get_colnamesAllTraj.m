@@ -1,0 +1,3 @@
+function colnames = get_colnamesAllTraj()
+    colnames = {'LASIX', 'LASIY', 'LASIZ', 'RASIX', 'RASIY', 'RASIZ', 'LPSIX', 'LPSIY', 'LPSIZ', 'RPSIX', 'RPSIY', 'RPSIZ', 'LTHIX', 'LTHIY', 'LTHIZ', 'LKNEX', 'LKNEY', 'LKNEZ', 'LTIBX', 'LTIBY', 'LTIBZ', 'LANKX', 'LANKY', 'LANKZ', 'LHEEX', 'LHEEY', 'LHEEZ', 'LTOEX', 'LTOEY', 'LTOEZ', 'RTHIX', 'RTHIY', 'RTHIZ', 'RKNEX', 'RKNEY', 'RKNEZ', 'RTIBX', 'RTIBY', 'RTIBZ', 'RANKX', 'RANKY', 'RANKZ', 'RHEEX', 'RHEEY', 'RHEEZ', 'RTOEX', 'RTOEY', 'RTOEZ'};
+end

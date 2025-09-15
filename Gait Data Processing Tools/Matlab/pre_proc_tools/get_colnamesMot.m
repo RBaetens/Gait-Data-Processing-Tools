@@ -1,0 +1,3 @@
+function colnames = get_colnamesMot()
+    colnames = {'LTOTF', 'LCOPX', 'LCOPY', 'RTOTF', 'RCOPX', 'RCOPY', 'LP1', 'LP2', 'LP3', 'LP4', 'LP5', 'LP6', 'LP7', 'LP8', 'LP9', 'LP10', 'LP11', 'LP12', 'LP13', 'LP14', 'LP15', 'LP16', 'LACCX', 'LACCY', 'LACCZ', 'LANGX', 'LANGY', 'LANGZ', 'RP1', 'RP2', 'RP3', 'RP4', 'RP5', 'RP6', 'RP7', 'RP8', 'RP9', 'RP10', 'RP11', 'RP12', 'RP13', 'RP14', 'RP15', 'RP16', 'RACCX', 'RACCY', 'RACCZ', 'RANGX', 'RANGY', 'RANGZ'};
+end
